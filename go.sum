@@ -1,0 +1,6 @@
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/matiss/orderbook v0.0.0-20210706082513-f6fd87eef58b h1:E+WgnwgS7GA3GH0DlnCvQ1pctTk1gWYKwlwRUlxjkR0=
+github.com/matiss/orderbook v0.0.0-20210706082513-f6fd87eef58b/go.mod h1:40aZKzTH5jxcy+mGXPCZCCGC719Zx2Esttq0CcJ1Ux4=
+github.com/shopspring/decimal v1.2.0 h1:abSATXmQEYyShuxI4/vyW3tV1MrKAJzCZ/0zLUXYbsQ=
+github.com/shopspring/decimal v1.2.0/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
