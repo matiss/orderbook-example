@@ -52,7 +52,7 @@ func addOrderBookSnapshot(symbol string, snapshot *orderbook.DepthSnapshot, prun
 		pruneThreshold = 100
 	}
 
-	orderBooks[sym] = orderbook.NewOrderBook(sym, &orderbook.OrderBookList{}, &orderbook.OrderBookList{}, pruneThreshold)
+	orderBooks[sym] = orderbook.New(sym, pruneThreshold)
 
 	// Add snapshot
 	orderBooks[sym].ProcessSnapshot(snapshot, eventBuffer[sym])
